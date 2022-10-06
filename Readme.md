@@ -42,7 +42,7 @@ responsible for Building and Designing the project.
 The content is will be the same in the below Diagram architecture :
 
 
-![This is an image](./Presentation1.svg)
+![This is an image](./img.svg)
 
 
 ## Functionality 
